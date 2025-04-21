@@ -94,6 +94,13 @@
 </head>
 <body class="bg-light">
     <div>
+
+    <div>
+    <!-- Logo justo encima del formulario -->
+    <div class="text-center mb-4">
+      <img src="img/logo_dickens.png" alt="Instituto Dickens" width="140">
+      <p class="fst-italic mt-2 mb-0">"Siempre fieles a la verdad"</p>
+    </div>
         <!-- Formulario de login -->
         <div class="card p-4 shadow-lg mx-auto" style="box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2) !important;">
             <h5 class="fw-bold mb-3 text-primary">Consulta de Boleta, <span class="fw-normal text-secondary">Primaria</span></h5>
